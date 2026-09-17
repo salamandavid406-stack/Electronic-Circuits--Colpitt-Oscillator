@@ -1,5 +1,5 @@
 # Electronic-Circuits--Colpitt-Oscillator
-## AIM:
+## AIM: 
 To simulate a Colpitt Oscillator and to verify the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
